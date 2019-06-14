@@ -1,0 +1,110 @@
+.has-bg-img{
+    background-image: url(/Images/Main.PNG)
+  }
+  .is-yellow{background-color: #FFC90E}
+.has-background-yellow{background-color: #FFC90E!important}
+.is-brown{background-color: #6E4A32}
+.is-darken{background-color: #2C2B2A}
+.is-gold{background-color: #FFD700}
+.has-bg-img{
+  background-image: url(/Images/bg.png)
+}
+.has-bg-img1{
+  background-image: url(/Images/frontcafe.JPG)
+}
+.has-font-style1{ 
+  font-family: Castellar;
+  font-size: 85px;
+  font-weight: bold;
+
+}
+.has-font-nav{
+  font-family: Palation Linotype;
+  font-size: 100px;
+  font-weight: bolder;
+
+}
+.has-font-mainav{
+  font-family: Palation Linotype;
+  font-size: 150px;
+  font-weight: bold;
+}
+.has-font-header{
+  font-family: Papyrus;
+  font-size: 50px;
+  font-weight: bold;
+}
+.has-font-body{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+}
+
+.map-responsive{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+.map-responsive iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
+
+
+.container1 {
+    position: relative;
+    width: 100%;
+    max-width: 5000px;
+  }
+  
+  .container1 img {
+    width: 5000px;
+    height: auto;
+  }
+  
+  .container2 .btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    
+  }
+  
+  .container1 .btn:hover {
+    background-color: black;
+  }
+
+  .container1 .btn {
+    position: absolute;
+    top: 52%;
+    left: 42.5%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 24px 36px;
+    margin-left: 121px;
+    margin-top: 1px;
+    width: 100px;
+    height: 45px;   
+    background: transparent;
+    border: white;
+    color: white;   
+    font-size:14px;
+    font-weight:700;
+  }
+
+  
